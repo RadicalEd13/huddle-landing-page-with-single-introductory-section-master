@@ -11,6 +11,6 @@ body {
 .container {
     background-image: url(./images/bg-mobile.svg);
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: containadd;
     background-color:#684BB1;
 }
